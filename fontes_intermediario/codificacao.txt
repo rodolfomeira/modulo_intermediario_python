@@ -1,0 +1,2 @@
+Gravação de Arquivo
+acentos: á, é, í, Á, É, Í, ç, Ç
